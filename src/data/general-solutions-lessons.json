@@ -1,0 +1,546 @@
+[
+  {
+    "title": "OECD Due Diligence Guidance",
+    "subtitle": "Understanding the international framework for responsible business conduct",
+    "category": "General Solutions",
+    "difficulty": "beginner",
+    "objectives": [
+      "Understand the purpose and scope of OECD Due Diligence Guidance",
+      "Identify the six steps of the due diligence process",
+      "Recognize key stakeholders in due diligence implementation",
+      "Apply due diligence principles to basic supply chain scenarios"
+    ],
+    "content": [
+      {
+        "type": "heading",
+        "text": "What is OECD Due Diligence?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Organisation for Economic Co-operation and Development (OECD) Due Diligence Guidance provides a framework for companies to identify, prevent, and mitigate adverse impacts in their operations and supply chains. It applies to all enterprises regardless of size, sector, or ownership structure."
+      },
+      {
+        "type": "heading",
+        "text": "The Six-Step Due Diligence Framework"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Step 1: Embed responsible business conduct into policies and management systems",
+          "Step 2: Identify and assess actual and potential adverse impacts in operations and supply chains",
+          "Step 3: Cease, prevent, or mitigate adverse impacts",
+          "Step 4: Track implementation and results",
+          "Step 5: Communicate how impacts are addressed",
+          "Step 6: Provide for or cooperate in remediation when appropriate"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Key Principles of Due Diligence"
+      },
+      {
+        "type": "paragraph",
+        "text": "Due diligence is risk-based (prioritizing the most severe impacts), proactive (preventing harm before it occurs), stakeholder-engaged (consulting with affected parties), and ongoing (continuously improving over time). It applies to all internationally recognized human rights, labor rights, environmental protection, and anti-corruption principles."
+      },
+      {
+        "type": "heading",
+        "text": "Who Should Be Involved?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Effective due diligence requires engagement from senior leadership, procurement teams, legal and compliance functions, operations managers, suppliers, workers and unions, civil society organizations, and affected communities. Cross-functional collaboration ensures comprehensive risk identification and effective mitigation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "How many steps are in the OECD Due Diligence framework?",
+        "options": [
+          "Four",
+          "Five",
+          "Six",
+          "Seven"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does OECD stand for?",
+        "options": [
+          "Office of Economic and Corporate Development",
+          "Organisation for Economic Co-operation and Development",
+          "Organization for Ethical Corporate Decisions",
+          "Oversight for Environmental Compliance and Development"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which principle describes prioritizing the most severe impacts?",
+        "options": [
+          "Proactive approach",
+          "Risk-based approach",
+          "Stakeholder engagement",
+          "Continuous improvement"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Essay: Describe a scenario where a company would need to implement Step 6 (remediation) of the OECD framework. What would appropriate remediation look like?",
+        "isEssay": true
+      }
+    ]
+  },
+  {
+    "title": "Comply Chain Framework",
+    "subtitle": "Building comprehensive compliance programs for ethical supply chains",
+    "category": "General Solutions",
+    "difficulty": "intermediate",
+    "objectives": [
+      "Understand the eight components of the Comply Chain framework",
+      "Develop stakeholder engagement strategies for compliance programs",
+      "Create risk assessment methodologies for supply chain vulnerabilities",
+      "Design monitoring and remediation systems"
+    ],
+    "content": [
+      {
+        "type": "heading",
+        "text": "The Comply Chain Framework"
+      },
+      {
+        "type": "paragraph",
+        "text": "Comply Chain, developed by the U.S. Department of Labor, is a comprehensive framework for reducing labor violations in global supply chains. It provides practical guidance for companies to build social compliance systems that protect workers' rights while maintaining business relationships."
+      },
+      {
+        "type": "heading",
+        "text": "Eight Components of Comply Chain"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Engage Stakeholders and Partners: Build coalitions with industry peers, civil society, and government",
+          "Assess Risks and Impacts: Identify where violations are most likely in your supply chain",
+          "Develop Code of Conduct: Establish clear expectations for supplier behavior",
+          "Communicate and Train: Ensure suppliers and workers understand standards and rights",
+          "Monitor Compliance: Implement auditing and verification systems",
+          "Remediate Violations: Address problems when discovered through corrective action plans",
+          "Independent Review: Seek external validation of compliance efforts",
+          "Report and Engage: Transparently communicate progress and challenges"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Risk Assessment Methodologies"
+      },
+      {
+        "type": "paragraph",
+        "text": "Effective risk assessment combines country-level data (governance indicators, labor law enforcement), sector-level analysis (industry-specific risks like seasonal labor or hazardous processes), and supplier-level factors (workforce composition, subcontracting practices, financial pressures). Data sources include ILO reports, NGO research, worker surveys, and audit findings."
+      },
+      {
+        "type": "heading",
+        "text": "Moving Beyond Audit Compliance"
+      },
+      {
+        "type": "paragraph",
+        "text": "Traditional compliance models focused solely on audits have proven insufficient. Modern approaches emphasize prevention through capacity building, worker empowerment through grievance mechanisms and worker voice, purchasing practices that don't incentivize violations, and long-term partnerships that enable sustainable improvements rather than hiding problems."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "How many components does the Comply Chain framework have?",
+        "options": [
+          "Six",
+          "Seven",
+          "Eight",
+          "Nine"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which organization developed the Comply Chain framework?",
+        "options": [
+          "United Nations",
+          "World Bank",
+          "U.S. Department of Labor",
+          "International Labour Organization"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is a limitation of traditional audit-only compliance models?",
+        "options": [
+          "They are too expensive",
+          "They focus on prevention rather than detection",
+          "They have proven insufficient and may hide problems",
+          "They require too much training"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Essay: Design a risk assessment process for an electronics company sourcing components from Southeast Asia. What specific risks would you prioritize and why?",
+        "isEssay": true
+      }
+    ]
+  },
+  {
+    "title": "Third-Party Auditing",
+    "subtitle": "Understanding the role, best practices, and limitations of social audits",
+    "category": "General Solutions",
+    "difficulty": "intermediate",
+    "objectives": [
+      "Evaluate different types of social audits and their effectiveness",
+      "Identify common audit limitations and how to address them",
+      "Implement complementary monitoring approaches beyond audits",
+      "Develop corrective action plan (CAP) processes"
+    ],
+    "content": [
+      {
+        "type": "heading",
+        "text": "Types of Social Audits"
+      },
+      {
+        "type": "paragraph",
+        "text": "Social audits assess compliance with labor standards and ethical practices. Announced audits involve scheduled visits where suppliers can prepare. Semi-announced audits provide short notice (24-48 hours). Unannounced audits arrive without warning to capture actual conditions. Each type has advantages: announced audits allow document preparation, while unannounced audits reduce coaching and concealment."
+      },
+      {
+        "type": "heading",
+        "text": "Audit Methodologies"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Document Review: Examining payroll records, time sheets, contracts, training records, and permits",
+          "Facility Inspection: Observing working conditions, safety equipment, dormitories, and production processes",
+          "Management Interviews: Discussing policies, procedures, and challenges with leadership",
+          "Worker Interviews: Conducting confidential conversations with employees, ideally off-site",
+          "Closing Meeting: Presenting preliminary findings and discussing next steps"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Known Limitations of Audits"
+      },
+      {
+        "type": "paragraph",
+        "text": "Research has documented significant audit limitations including falsified documents (double books for payroll), coached workers (trained to give scripted responses), hidden subcontracting (moving problematic work off-site during audits), auditor inconsistency (different standards applied by different auditors), and short-term fixes (addressing issues only during audit season). These limitations require complementary approaches."
+      },
+      {
+        "type": "heading",
+        "text": "Beyond Audits: Complementary Approaches"
+      },
+      {
+        "type": "paragraph",
+        "text": "Effective monitoring combines audits with worker hotlines and grievance mechanisms, worker surveys conducted by independent parties, community monitoring by local NGOs, technology-enabled monitoring (digital wage payments, GPS tracking), buyer-supplier collaboration rather than punitive relationships, and most importantly, addressing root causes like purchasing practices that create pressure for violations."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is an advantage of unannounced audits?",
+        "options": [
+          "Suppliers can prepare documentation",
+          "They reduce coaching and concealment of issues",
+          "They are less expensive",
+          "Workers have time to learn their rights"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is 'double books' in the context of auditing?",
+        "options": [
+          "Using two different auditing firms",
+          "Falsified payroll records to hide violations",
+          "Having both digital and paper records",
+          "Auditing twice per year"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which is a complementary approach to audits?",
+        "options": [
+          "Conducting more frequent audits",
+          "Using only announced audits",
+          "Worker hotlines and grievance mechanisms",
+          "Reducing supplier engagement"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Essay: You discover that workers at an audited facility were coached to give scripted responses. How would you redesign your monitoring approach to detect and prevent this in the future?",
+        "isEssay": true
+      }
+    ]
+  },
+  {
+    "title": "Supplier Codes of Conduct",
+    "subtitle": "Creating effective supplier standards and expectations",
+    "category": "General Solutions",
+    "difficulty": "beginner",
+    "objectives": [
+      "Develop comprehensive supplier codes of conduct",
+      "Create clear, actionable requirements for suppliers",
+      "Implement cascading requirements through supply chain tiers",
+      "Communicate expectations effectively across languages and cultures"
+    ],
+    "content": [
+      {
+        "type": "heading",
+        "text": "Elements of a Strong Code of Conduct"
+      },
+      {
+        "type": "paragraph",
+        "text": "A supplier code of conduct establishes minimum standards for ethical business practices. Core elements include labor standards (no forced or child labor, fair wages, reasonable hours), health and safety requirements, environmental protection standards, business integrity (anti-corruption, fair competition), and management system expectations. The code should reference international standards like ILO conventions."
+      },
+      {
+        "type": "heading",
+        "text": "Making Codes Actionable"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Clear Language: Written in supplier's local language without legal jargon",
+          "Specific Requirements: Quantifiable standards rather than vague principles",
+          "Context Appropriate: Recognizing different capabilities across supplier types",
+          "Cascading Obligations: Requirements for suppliers to pass standards to their suppliers",
+          "Verification Methods: How compliance will be assessed and monitored",
+          "Consequences: Clear escalation process from warnings to termination",
+          "Resources: Providing tools and support for implementation"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Communicating Expectations"
+      },
+      {
+        "type": "paragraph",
+        "text": "Effective communication goes beyond distributing a document. Best practices include in-person introduction during onboarding, translation into local languages, visual aids and examples for low-literacy contexts, regular reinforcement through supplier meetings, integration into contracts and purchase orders, and accessible channels for questions and clarifications."
+      },
+      {
+        "type": "heading",
+        "text": "Cascading Through Supply Tiers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Codes should require suppliers to flow down standards to their own suppliers. This cascading creates accountability beyond Tier 1. However, enforcement becomes more challenging at lower tiers. Companies must decide whether to directly engage sub-suppliers, rely on Tier 1 suppliers to manage them, or use industry collaborations to address systemic issues in lower tiers."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does ILO stand for?",
+        "options": [
+          "International Labor Office",
+          "International Labour Organization",
+          "Independent Labor Operations",
+          "Industry Labor Oversight"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What makes a code of conduct 'actionable'?",
+        "options": [
+          "It's very long and detailed",
+          "It has clear, specific, quantifiable requirements",
+          "It only applies to large suppliers",
+          "It's written in legal language"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is a 'cascading obligation' in supplier codes?",
+        "options": [
+          "Standards that only apply to direct suppliers",
+          "Requirements for suppliers to pass standards to their own suppliers",
+          "Gradually reducing standards over time",
+          "Training programs in multiple languages"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Essay: Design a supplier code of conduct for a food company sourcing agricultural products. What key requirements would you include and how would you communicate them to smallholder farmers?",
+        "isEssay": true
+      }
+    ]
+  },
+  {
+    "title": "Supplier Training Programs",
+    "subtitle": "Building supplier capacity for compliance and continuous improvement",
+    "category": "General Solutions",
+    "difficulty": "intermediate",
+    "objectives": [
+      "Design effective supplier training and capacity building programs",
+      "Develop training curricula tailored to different supplier needs",
+      "Implement train-the-trainer models for scalability",
+      "Measure training effectiveness and behavioral change"
+    ],
+    "content": [
+      {
+        "type": "heading",
+        "text": "Why Training Matters"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many suppliers, especially small and medium enterprises, lack knowledge or resources to meet sustainability standards. Simply providing a code of conduct is insufficient—suppliers need education, tools, and support. Training builds capability, demonstrates commitment to partnership rather than just enforcement, and creates sustainable improvements rather than temporary compliance."
+      },
+      {
+        "type": "heading",
+        "text": "Types of Supplier Training"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Compliance Training: Understanding code requirements, labor laws, and audit processes",
+          "Management Systems: Implementing policies, procedures, and documentation practices",
+          "Technical Skills: Improving environmental management, energy efficiency, or quality systems",
+          "Worker Rights Training: Educating workers directly on their rights and grievance mechanisms",
+          "Train-the-Trainer: Building internal capability for suppliers to train their own staff",
+          "Remediation Support: Helping suppliers fix identified violations through corrective action"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Effective Training Design"
+      },
+      {
+        "type": "paragraph",
+        "text": "Training should be interactive and practical, not just lectures. Use case studies, role plays, and hands-on exercises. Provide materials in local languages with visual aids for low-literacy contexts. Conduct training on-site when possible to see actual conditions. Follow up training with ongoing technical assistance and coaching. Create peer learning networks where suppliers can share challenges and solutions."
+      },
+      {
+        "type": "heading",
+        "text": "Measuring Training Impact"
+      },
+      {
+        "type": "paragraph",
+        "text": "Track both participation metrics (attendance, completion rates) and outcome metrics (improved audit scores, reduction in violations, behavior change). Use pre- and post-training assessments to measure knowledge gain. Conduct follow-up visits to observe implementation of trained practices. Survey workers to assess whether their experience has improved. Measure return on investment through reduced audit costs and supply chain disruptions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why is training important beyond just providing a code of conduct?",
+        "options": [
+          "Codes are too expensive to print",
+          "Suppliers need education, tools, and support to build capability",
+          "Training is required by law",
+          "It's easier than monitoring"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is a 'train-the-trainer' model?",
+        "options": [
+          "Training only auditors",
+          "Building supplier's internal capability to train their own staff",
+          "Training only management",
+          "Replacing all external training"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which is an outcome metric for measuring training impact?",
+        "options": [
+          "Number of attendees",
+          "Length of training session",
+          "Reduction in violations and improved audit scores",
+          "Number of slides presented"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Essay: Design a training program for small garment suppliers in Bangladesh to help them comply with labor standards. What topics would you cover, what delivery methods would you use, and how would you measure success?",
+        "isEssay": true
+      }
+    ]
+  },
+  {
+    "title": "ESG Reporting Frameworks",
+    "subtitle": "Navigating sustainability disclosure requirements and standards",
+    "category": "General Solutions",
+    "difficulty": "advanced",
+    "objectives": [
+      "Compare major ESG reporting frameworks (GRI, SASB, TCFD, ISSB)",
+      "Develop materiality assessments for sustainability reporting",
+      "Implement data collection systems for ESG metrics",
+      "Navigate emerging mandatory disclosure regulations"
+    ],
+    "content": [
+      {
+        "type": "heading",
+        "text": "The ESG Reporting Landscape"
+      },
+      {
+        "type": "paragraph",
+        "text": "Environmental, Social, and Governance (ESG) reporting has evolved from voluntary corporate communications to mandatory regulatory requirements in many jurisdictions. Multiple frameworks exist, each with different scopes, audiences, and approaches. Understanding which frameworks apply to your organization and how they interrelate is essential for strategic reporting."
+      },
+      {
+        "type": "heading",
+        "text": "Major Reporting Frameworks"
+      },
+      {
+        "type": "list",
+        "items": [
+          "GRI (Global Reporting Initiative): Comprehensive framework covering wide range of ESG topics, focused on impact on stakeholders",
+          "SASB (Sustainability Accounting Standards Board): Industry-specific standards focused on financially material issues for investors",
+          "TCFD (Task Force on Climate-related Financial Disclosures): Framework for climate risk disclosure including governance, strategy, risk management, and metrics",
+          "CDP (Carbon Disclosure Project): Focused on environmental disclosure, particularly climate, water, and forests",
+          "ISSB (International Sustainability Standards Board): Emerging global baseline for sustainability disclosure requirements",
+          "EU CSRD (Corporate Sustainability Reporting Directive): Mandatory disclosure for EU companies covering double materiality"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Materiality Assessment"
+      },
+      {
+        "type": "paragraph",
+        "text": "Materiality determines which ESG topics are significant enough to report. Financial materiality considers impacts on enterprise value. Impact materiality considers the organization's impacts on people and environment. Double materiality (required by EU CSRD) considers both dimensions. The process involves stakeholder engagement, peer benchmarking, risk assessment, and leadership prioritization."
+      },
+      {
+        "type": "heading",
+        "text": "Building ESG Data Infrastructure"
+      },
+      {
+        "type": "paragraph",
+        "text": "Robust reporting requires systematic data collection across operations and supply chains. Key elements include defining clear metrics and calculation methodologies, establishing data ownership and accountability, implementing technology systems for data aggregation, creating internal controls and verification processes, and developing assurance readiness as external verification becomes standard practice."
+      },
+      {
+        "type": "heading",
+        "text": "Navigating Regulatory Requirements"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mandatory ESG disclosure is expanding globally. The EU CSRD affects thousands of companies including non-EU firms operating in Europe. California SB 253 requires climate disclosure. SEC climate rules (evolving) will affect U.S. public companies. Organizations must track applicable regulations, build compliance capabilities, and anticipate future requirements."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does TCFD focus on?",
+        "options": [
+          "General sustainability reporting",
+          "Climate-related financial disclosures",
+          "Labor standards",
+          "Supply chain mapping"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is 'double materiality'?",
+        "options": [
+          "Reporting twice per year",
+          "Using two different frameworks",
+          "Considering both financial impact and impact on environment/society",
+          "Having two separate materiality assessments"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which framework focuses on financially material issues for investors by industry?",
+        "options": [
+          "GRI",
+          "SASB",
+          "CDP",
+          "ISO"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Essay: Your company operates in the EU and California. Describe the ESG reporting framework strategy you would recommend, including which frameworks to use and how to efficiently meet multiple regulatory requirements.",
+        "isEssay": true
+      }
+    ]
+  }
+]

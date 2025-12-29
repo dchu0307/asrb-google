@@ -1,0 +1,127 @@
+@import "tailwindcss";
+
+@layer theme {
+  :root {
+    --color-primary: #0a5f8a;
+    --color-primary-dark: #084868;
+    --color-accent: #ff6b35;
+    --color-success: #06a77d;
+    --color-error: #d83a56;
+    --color-bg: #f8f9fa;
+    --color-surface: #ffffff;
+    --color-text: #1a1d29;
+    --color-text-secondary: #5f6c7b;
+    --color-border: #e4e8ec;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    font-family: 'Charter', 'Georgia', serif;
+    color: var(--color-text);
+    background-color: var(--color-bg);
+    line-height: 1.6;
+  }
+
+  h1 {
+    font-family: 'Outfit', 'Helvetica', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    color: var(--color-primary-dark);
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    font-family: 'Outfit', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 1.75rem;
+    line-height: 1.3;
+    color: var(--color-primary);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-family: 'Outfit', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.4;
+    color: var(--color-primary);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    font-size: 1.125rem;
+    margin-bottom: 1.25rem;
+  }
+
+  strong {
+    font-weight: 600;
+    color: var(--color-primary-dark);
+  }
+
+  /* Rich text content styling */
+  .prose {
+    line-height: 1.6;
+  }
+
+  .prose p {
+    font-size: 1.125rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .prose h3 {
+    font-family: 'Outfit', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.4;
+    color: var(--color-primary);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .prose ul, .prose ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .prose li {
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .prose strong {
+    font-weight: 600;
+    color: var(--color-primary-dark);
+  }
+
+  .prose em {
+    font-style: italic;
+  }
+
+  .prose u {
+    text-decoration: underline;
+  }
+
+  .prose a {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .prose a:hover {
+    color: var(--color-primary-dark);
+  }
+
+  .prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 16px 0;
+  }
+}
